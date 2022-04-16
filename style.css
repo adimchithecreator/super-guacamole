@@ -15,6 +15,7 @@ p{
 .about{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .about-content{
 padding: 40px !important;
